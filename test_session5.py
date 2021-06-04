@@ -7,7 +7,6 @@ import inspect
 import re
 import math
 import time
-import numpy as np
 from session5 import time_it
 from session5 import custom_print
 from session5 import squared_power_list

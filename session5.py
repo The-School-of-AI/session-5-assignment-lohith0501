@@ -3,7 +3,6 @@
 import time
 import math
 import timeit
-import numpy as np
 
 from attr import validate
 
